@@ -1,1 +1,1 @@
-# Solving-ordinary-differential-with-NNK-
+# Solving-Ordinary-Differential-Equations-with-NNk
